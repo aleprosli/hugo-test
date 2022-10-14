@@ -1,0 +1,78 @@
+baseURL = 'https://aleprosli.my/'
+languageCode = 'en-us'
+# title = 'AlepRosli'
+theme = 'hugo-coder'
+
+[params]
+author = "Aliff Rosli"
+info = "Software Engineer"
+description = "Aliff Rosli Laravel Developer LAMP/LEMP Stack"
+keywords = "Laravel, LAMP, LEMP, Backend"
+avatarurl = "img/me.png"
+
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+#untuk change colour
+colorScheme = "dark"
+hidecolorschemetoggle = true
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/aleprosli/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/aleprosli/"
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook fa-2x"
+  weight = 3
+  url = "https://www.facebook.com/aleprosli/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://www.instagram.com/aleprosli/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/aleprosli/"
+[[params.social]]
+name = "Discord"
+icon = "fa fa-2x fa-discord"
+weight = 4
+url = "ayam123#1199"
+[[params.social]]
+name = "Youtube"
+icon = "fa fa-2x fa-youtube"
+weight = 3
+url = "https://www.youtube.com/channel/UC0RpU52CxeA9oVA8l1Z4mrQ"
+[[params.social]]
+name = "Steam"
+icon = "fa fa-2x fa-steam"
+weight = 4
+url = "https://steamcommunity.com/id/abdwahub"
+[[params.social]]
+name = "Gmail"
+icon = "fa fa-2x fa-google"
+weight = 3
+url = "mailto:aliff.rosli96@gmail.com"
+[[params.social]]
+name = "Whatsapp"
+icon = "fa fa-2x fa-whatsapp"
+weight = 3
+url = "wa.me/0135162634"
+[[params.social]]
+name = "telegram"
+icon = "fa fa-2x fa-telegram"
+weight = 3
+url = "https://tttttt.me/Aleeeprosli"
+
