@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-10-15T19:21:40+08:00
-draft: true
+draft: false
 cover:
     image: img/image.png
     alt: 'gambar paling hensem'
