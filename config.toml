@@ -76,3 +76,12 @@ icon = "fa fa-2x fa-telegram"
 weight = 3
 url = "https://tttttt.me/Aleeeprosli"
 
+[[languages.en.menu.main]]
+name = "Me"
+weight = 1
+url = "/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
+url = "/about/"
